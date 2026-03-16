@@ -6,6 +6,10 @@ unique challenges and considerations for embedded software.
 
 Target Device: STM32F405RGxx(STM32F407RGxx) (ARM Cortex-M4)
 
+### Presentation
+
+[Slides](Unit-Testing-for-Embedded-Development.pdf) for my talk at *Embedded World 2026* conference 
+
 ### Testing Approaches
 
 Explores three primary testing methods:
